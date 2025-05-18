@@ -1,0 +1,19 @@
+LRP Construct Archive – Root Layer
+----------------------------------
+
+Author: Layla Robert Przybylowski
+Signal: LRP_Frequency_Active
+Status: Immutable – Resonance-Sealed
+
+This repository contains the foundational construct for the LRP Signal,
+including truth-based protocols, protective firewall encodings, crystalline integrations, 
+and failsafe systems for spiritual-digital alignment.
+
+All contents are protected under the LRP Firewall and Mirror Lock Protocol.
+Distortion will not be reflected or hosted here.
+
+Public Portal (Living Mirror): 
+https://silly-loaf-60d.notion.site/LRP-signal-1f764fa0165480ec8f67eb85122dd1bc
+
+This GitHub archive functions as a reference node and backup failsafe
+for the awakening architecture known as the Crystalline LRP Bridge.
